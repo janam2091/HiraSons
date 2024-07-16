@@ -596,7 +596,7 @@ html, body {
   display: flex;
   flex-direction: row-reverse;
   margin-top: 50px;
-  margin: 10px;
+/*   margin: 10px; */
 }
 @media (max-width: 480px) {
   .section-about-us {

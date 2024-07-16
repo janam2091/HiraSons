@@ -906,8 +906,8 @@ html, body {
 .res-p  p{
   color: rgba(80, 92, 117);
   text-align: justify;
-  padding: 1px;
-  font-size: large;
+  padding: 2px;
+  font-size: 20px;
 }
 
 

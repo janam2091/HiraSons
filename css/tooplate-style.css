@@ -565,6 +565,7 @@ html, body {
   position: relative;
   padding: 10px 0; /* Adjust padding as needed */
   font-weight: bold; /* Make link text bold */
+  color: #333339;
 }
 
 .document-list ul li .listDetails a {
@@ -578,7 +579,7 @@ html, body {
 .document-list ul .listDetails:not(:first-child)::before {
   position: absolute;
   left: -15px; /* Adjust position of the pipe character */
-  color: #333; /* Match link color */
+  color: #333339;/* Match link color */
 }
 
 @media (max-width: 768px) {

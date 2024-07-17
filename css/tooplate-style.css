@@ -460,14 +460,14 @@ html, body {
 }
 
 
-.Imgfram{
-
+.Imgfram {
     display: block;
     margin-left: 0px;
     margin-right: auto;
-    width: 30%;
-  }
-
+    width: 29%;
+    align-items: center;
+    display: inline-block;
+}
 
 @media (max-width: 480px) {
   .Imgfram{
@@ -713,7 +713,8 @@ html, body {
 
   @media (max-width: 1440px) {
     .about-icons {
-      margin-top: 50px;
+        margin-top: 50px;
+        width: auto;
     }
   }
   

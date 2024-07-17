@@ -660,14 +660,14 @@ html, body {
 }
 }
 @media (max-width: 1440px) {
-  .about-para {
-    padding: 30px 8%;
-    text-align: justify;
-    font-size: 25px;
-    color: rgba(80, 92, 117);
-    line-height: 1.7;
-    font-family: "Arial", sans-serif;
-  }
+    .about-para {
+        padding: 0px 6%;
+        text-align: justify;
+        gap: 28px;
+        font-size: 20px;
+        color: rgba(80, 92, 117);
+       font-family: "Playfair Display", serif;
+    }
 }
 
 

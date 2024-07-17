@@ -466,7 +466,7 @@ html, body {
     margin-right: auto;
     width: 29%;
     align-items: center;
-    display: inline-block;
+    display: inline-block !important;
 }
 
 @media (max-width: 480px) {

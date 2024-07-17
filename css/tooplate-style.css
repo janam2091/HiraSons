@@ -1046,11 +1046,11 @@ html, body {
   color: rgba(80, 92, 117);
 }
 .resp-h4 h4 {
-  font-size: 40px;
-  font-family: "Playfair Display", serif;
-  padding: 0px;
-  margin: 0;
-  
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+    padding: 0px;
+    margin: 0;
+    margin-top: 4pc;
 }
 @media (max-width: 480px) {
   .resp-h4 h4 {

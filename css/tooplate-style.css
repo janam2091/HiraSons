@@ -296,11 +296,11 @@ img {
   }
 }
 
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
   .section-about-us {
     height: 100vh;
   }
-}
+} */
 @media (min-width: 1280px) {
   .section-about-us {
     padding: 25px;

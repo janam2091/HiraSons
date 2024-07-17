@@ -661,12 +661,13 @@ html, body {
 }
 @media (max-width: 1440px) {
     .about-para {
-        padding: 0px 6%;
+        padding: 0px 6% !important;
         text-align: justify;
         gap: 28px;
-        font-size: 20px;
+        font-size: 20px 
+	    !important;
         color: rgba(80, 92, 117);
-       font-family: "Playfair Display", serif;
+       font-family: "Playfair Display", serif !important;
     }
 }
 

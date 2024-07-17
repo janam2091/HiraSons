@@ -737,7 +737,7 @@ html, body {
 /* Media query for smaller screens */
 @media only screen and (max-width: 768px) {
   .about-icons img {
-    width: 50%; /* Adjust image size for smaller screens */
+    width: 35%; /* Adjust image size for smaller screens */
   }
 }
 

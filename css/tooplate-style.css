@@ -591,13 +591,13 @@ html, body {
 
 
 .section-about-us {
-  background-color: #f4f4f4;
-  padding: 60px 10;
-  width: 100%;
-  display: flex;
-  flex-direction: row-reverse;
-  margin-top: 50px;
-/*   margin: 10px; */
+    background-color: #f4f4f4;
+    /* padding: 0px 1px; */
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 78px;
+    /* margin: 10px; */
 }
 @media (max-width: 480px) {
   .section-about-us {

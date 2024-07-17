@@ -685,10 +685,12 @@ html, body {
 
 /* Media query for smaller screens */
 @media only screen and (max-width: 768px) {
-  .about-para {
-      font-size: 20px; /* Decrease font size for smaller screens */
-      padding: 20px 5%; /* Adjusted padding for smaller screens */
-  }
+    .about-para {
+        font-size: 16px;
+        padding: 20px 5%;
+        text-align: justify;
+    }
+
 }
 
 

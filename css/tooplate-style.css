@@ -644,7 +644,7 @@ html, body {
 .about-para {
   padding: 30px 8%; /* Adjusted padding for better spacing */
   text-align: justify;
-  font-size: 21px; /* Increased font size for better visibility */
+/*   font-size: 21px; /* Increased font size for better visibility */ */
   color: rgba(80, 92, 117);
   line-height: 1.6; /* Increased line height for better readability */
   /* font-family: "Arial", sans-serif; Font family change for clarity */

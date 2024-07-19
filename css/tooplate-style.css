@@ -601,7 +601,8 @@ html, body {
     flex-wrap: wrap !important;
     align-content: stretch !important;
     justify-content: space-evenly !important;
-    margin-bottom: 5px !important;
+    margin-bottom: 30px !important;
+    margin-top: 40px !important;
 }
 @media (max-width: 480px) {
   .section-about-us {

@@ -598,7 +598,7 @@ html, body {
     flex-direction: row-reverse;
     /* margin-top: 78px; */
     /* margin: 10px; */
-    flex-wrap: wrap !important;
+/*     flex-wrap: wrap !important; */
     align-content: stretch !important;
     justify-content: space-evenly !important;
     margin-bottom: 30px !important;
@@ -839,19 +839,19 @@ html, body {
 
 @media (min-width: 1024px) {
   .section-why-us {
-    height: 39vh;
+  height: 46vh;
   }
 }
 
 @media (min-width: 768px) {
   .section-why-us {
-    height: 39vh;
+    height: 46vh;
   }
 }
 
 @media (min-width: 480px) {
   .section-why-us {
-    height: 39vh;
+    height: 46vh;
   }
 }
 

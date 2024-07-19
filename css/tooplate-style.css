@@ -838,19 +838,19 @@ html, body {
 
 @media (min-width: 1024px) {
   .section-why-us {
-    height: 80vh;
+    height: 39vh;
   }
 }
 
 @media (min-width: 768px) {
   .section-why-us {
-    height: 100vh;
+    height: 39vh;
   }
 }
 
 @media (min-width: 480px) {
   .section-why-us {
-    height: 60vh;
+    height: 39vh;
   }
 }
 
